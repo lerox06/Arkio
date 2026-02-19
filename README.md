@@ -1,5 +1,3 @@
-<p align="center"> <h1 align="center">🏛️ Arkio — Gestion Foncière de Prestige</h1> <p align="center"><i>L’excellence au service du patrimoine.</i></p> </p> <p align="center"> <img src="https://img.shields.io/badge/Statut-Prototype_V1-C9A84C?style=for-the-badge" alt="Statut"> <img src="https://img.shields.io/badge/Stack-HTML5_|_CSS3_|_JavaScript-0E0E0E?style=for-the-badge" alt="Tech"> <img src="https://img.shields.io/badge/Design-Premium-D4A017?style=for-the-badge" alt="Design"> </p>
-
 <p align="center">
   <h1 align="center">🏛️ Arkio — Gestion Foncière de Prestige</h1>
   <p align="center"><i>L’excellence au service du patrimoine.</i></p>
