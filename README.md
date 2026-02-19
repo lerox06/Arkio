@@ -94,3 +94,34 @@ Projet **Zero-Config** — Aucun serveur requis.
 
 ```bash
 git clone https://github.com/lerox06/Arkio.git
+```
+### 2️⃣ Lancer l’application
+
+Ouvrir simplement le fichier :
+```bash
+fonciere_ultimate.html
+```
+---
+
+### 📂 Structure du Projet
+```bash
+Arkio/
+├── fonciere_ultimate.html   # Structure HTML & Logique JS
+├── style.css                # Design System & Animations
+└── README.md                # Documentation
+```
+
+---
+
+Arkio n’est pas seulement un outil de gestion.
+C’est une vision :
+
+> Structurer. Valoriser. Pérenniser.
+
+Une interface pensée pour les investisseurs exigeants, les gestionnaires stratégiques et les bâtisseurs de patrimoine.
+
+### 👤 Auteur
+
+Lerox06
+Développeur & Concepteur du projet Arkio.
+
